@@ -3,7 +3,7 @@ The code of Hierarchical Sequence Selection for Video Anomaly Detection with Wea
 ## Datasets
 UCF Crime Dataset
 XD Violence Dataset
-## I2D Features
+## I3D Features
 
 ## TODO
 The code will be released soon, please wait!
