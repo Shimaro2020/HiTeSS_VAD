@@ -1,2 +1,2 @@
 # HiTeSS_VAD
-The code will be released soon, please wait
+The code will be released soon, please wait!
